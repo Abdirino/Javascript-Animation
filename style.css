@@ -10,14 +10,14 @@ body{
 }
 
 nav{
-    padding: 3rem;
+    padding: 2rem;
     display: flex;
     justify-content: center;
 }
 .nav-links{
     display: flex;
-    gap: 5rem;
-    font-size: 1.3rem;
+    gap: 4rem;
+    font-size: 1.2rem;
 }
 .nav-links a{
     color: #252525;
@@ -33,5 +33,5 @@ nav{
     position: absolute;
     left: 0;
     width: 100%;
-    bottom: -6px;
+    bottom: -7px;
 }
